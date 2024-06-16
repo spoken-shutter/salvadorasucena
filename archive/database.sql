@@ -19,3 +19,4 @@ Success usually comes to those who are too busy to be looking for it. Firewalls 
 The only way to do great work is to love what you do. DevOps Code Review Event-driven Architecture Container Orchestration Monitoring Firewalls Cloud UX Optimization Kubernetes Kafka Performance Virtual Machines WebSockets
 Distributed Systems DevOps Don't be afraid to give up the good to go for the great. Machine Learning WebSockets Act as if what you do makes a difference. It does. Content Delivery Network Algorithm Scalability Performance Container Orchestration Dream big and dare to fail. Load Balancing
 Content Delivery Network The only way to do great work is to love what you do. Data Science Backend Stay hungry, stay foolish. Container Orchestration Code Review
+Multi-threading Database GraphQL Cloud Functions Performance IoT Replica Set Docker Stay hungry, stay foolish. Quantum Computing
