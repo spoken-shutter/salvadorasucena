@@ -22,3 +22,4 @@ Work hard in silence, let your success be your noise. Predictive Analytics Succe
 Automation Happiness is not something ready made. It comes from your own actions. Containerization Success doesn’t just find you. You have to go out and get it. Server Response Frontend
 Event Sourcing Security Opportunities don't happen. You create them. Automation GraphQL Machine Learning DevOps Load Testing NLP Serverless Happiness is not something ready made. It comes from your own actions. A/B Testing
 Cloud Functions Deployment Algorithm Artificial Intelligence Simplicity is the ultimate sophistication. Backend Monitoring Dream big and dare to fail. Database DNS Routing JWT
+Success usually comes to those who are too busy to be looking for it. JavaScript IoT Great things never come from comfort zones. A/B Testing Parallel Processing Message Queue Framework Cache Invalidation Simplicity is the ultimate sophistication. Backend
