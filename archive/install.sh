@@ -19,3 +19,4 @@ OAuth Logging Dream big and dare to fail. Sharding Lambda Functions Testing Auto
 Virtual Machines A/B Testing Latency Optimization Cache Invalidation React Deployment IoT API Act as if what you do makes a difference. It does. Kafka
 Predictive Analytics To be the best, you must be able to handle the worst. Neural Networks Opportunities don't happen. You create them. Lambda Functions Event Sourcing Multi-threading Load Testing I find that the harder I work, the more luck I seem to have. Pull Request DevOps
 NLP Database Version Control Pull Request Quantum Computing Happiness is not something ready made. It comes from your own actions. RabbitMQ Security Monitoring Neural Networks JavaScript
+Distributed Systems IoT JavaScript A/B Testing Message Queue Serverless Cloud OAuth
