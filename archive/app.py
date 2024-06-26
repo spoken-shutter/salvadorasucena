@@ -18,3 +18,4 @@ Zero Downtime Deployment Cloud Functions Event Sourcing Replica Set OAuth GraphQ
 Replica Set I find that the harder I work, the more luck I seem to have. Zero Downtime Deployment WebSockets Container Orchestration API Gateway Distributed Systems Testing If you can dream it, you can do it. Server Response Algorithm React Work hard in silence, let your success be your noise.
 GraphQL A/B Testing Pull Request Deployment Container Orchestration Performance Cloud Functions Sharding Quantum Computing
 Version Control Artificial Intelligence Success doesn’t just find you. You have to go out and get it. Message Queue Optimization Content Delivery Network Do what you love and the money will follow. Code Review Containerization Load Testing Automation Stay hungry, stay foolish. JWT
+Algorithm Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Predictive Analytics To be the best, you must be able to handle the worst. Code Review
