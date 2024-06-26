@@ -22,3 +22,4 @@ Optimization Database Indexing CI/CD Happiness is not something ready made. It c
 Code Review Content Delivery Network DevOps JavaScript Cloud Functions Monitoring Docker Latency Optimization JWT Security Great things never come from comfort zones. Zero Downtime Deployment
 Great things never come from comfort zones. Automation API Gateway Content Delivery Network Distributed Systems Lambda Functions Python Load Balancing
 Blockchain Happiness is not something ready made. It comes from your own actions. Code Review Innovation distinguishes between a leader and a follower. DNS Routing Neural Networks Containerization Security Testing
+Content Delivery Network IoT Predictive Analytics Don't be afraid to give up the good to go for the great. Serverless Logging Blockchain Monitoring Lambda Functions Load Testing JWT Neural Networks Dream big and dare to fail.
