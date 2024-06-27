@@ -26,3 +26,4 @@ Dream big and dare to fail. Distributed Systems Cache Invalidation Sharding Bloc
 Latency Optimization Serverless DevOps Kafka Blockchain Server Response Database Indexing Python Security Load Balancing Act as if what you do makes a difference. It does. Cloud Functions Automation
 Firewalls JWT A/B Testing Success usually comes to those who are too busy to be looking for it. OAuth Automation Pull Request Security I find that the harder I work, the more luck I seem to have. Event-driven Architecture Work hard in silence, let your success be your noise. Zero Downtime Deployment Blockchain
 Sharding Edge Computing Kafka Database Testing Simplicity is the ultimate sophistication. API Framework Zero Downtime Deployment Replica Set Docker
+Load Balancing Content Delivery Network Serverless Code Review Event-driven Architecture Database API

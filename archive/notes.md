@@ -23,3 +23,4 @@ Success is not in what you have, but who you are. Don't be afraid to give up the
 Machine Learning Big Data Docker CI/CD Kubernetes Scalability Python If you can dream it, you can do it. Neural Networks React API Latency Optimization
 Success is not in what you have, but who you are. Security Containerization API Gateway Algorithm Dream big and dare to fail. Performance Event-driven Architecture Version Control RabbitMQ
 Machine Learning GraphQL Success is how high you bounce when you hit bottom. OAuth Success doesn’t just find you. You have to go out and get it. Cloud Monitoring Event-driven Architecture The only way to do great work is to love what you do.
+Frontend Innovation distinguishes between a leader and a follower. API Gateway React Load Balancing Success doesn’t just find you. You have to go out and get it. Backend
