@@ -18,3 +18,4 @@ Deployment Load Balancing Security Cloud Functions Cloud Load Testing Monitoring
 WebSockets RabbitMQ Quantum Computing Data Pipeline Logging
 Agile IoT Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Kafka NLP Cache Invalidation API Logging Security
 Database Machine Learning API Gateway Event-driven Architecture UX Optimization Version Control Act as if what you do makes a difference. It does. Content Delivery Network Firewalls Dream big and dare to fail. Sharding Testing Success is how high you bounce when you hit bottom. Scalability Serverless
+Framework Cache Invalidation Predictive Analytics Container Orchestration Great things never come from comfort zones.

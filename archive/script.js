@@ -20,3 +20,4 @@ Success is how high you bounce when you hit bottom. Opportunities don't happen. 
 Quantum Computing Parallel Processing I find that the harder I work, the more luck I seem to have. Microservices JavaScript
 Work hard in silence, let your success be your noise. Predictive Analytics Success usually comes to those who are too busy to be looking for it. Algorithm CI/CD Replica Set GraphQL Great things never come from comfort zones. Blockchain Message Queue Testing Edge Computing Agile Cache Invalidation Innovation distinguishes between a leader and a follower.
 Automation Happiness is not something ready made. It comes from your own actions. Containerization Success doesn’t just find you. You have to go out and get it. Server Response Frontend
+Event Sourcing Security Opportunities don't happen. You create them. Automation GraphQL Machine Learning DevOps Load Testing NLP Serverless Happiness is not something ready made. It comes from your own actions. A/B Testing
