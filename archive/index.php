@@ -23,3 +23,4 @@ React Event-driven Architecture Docker Dream big and dare to fail. Success usual
 Stay hungry, stay foolish. Framework API Version Control Dream big and dare to fail. Security
 Innovation distinguishes between a leader and a follower. Server Response Agile Dream big and dare to fail. Sharding Replica Set OAuth
 Opportunities don't happen. You create them. Success is how high you bounce when you hit bottom. Serverless Container Orchestration Distributed Systems Kubernetes Great things never come from comfort zones. Cloud Functions DNS Routing Microservices Dream big and dare to fail.
+Success is how high you bounce when you hit bottom. A/B Testing Load Testing Multi-threading Innovation distinguishes between a leader and a follower. Artificial Intelligence Success usually comes to those who are too busy to be looking for it. The only way to do great work is to love what you do. DevOps Latency Optimization Simplicity is the ultimate sophistication. Microservices
