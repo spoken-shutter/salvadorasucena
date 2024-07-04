@@ -25,3 +25,4 @@ Frontend Testing Python GraphQL Serverless Simplicity is the ultimate sophistica
 Sharding Pull Request Algorithm Code Review Kubernetes A/B Testing Security Optimization Database Indexing Cache Invalidation Neural Networks
 Firewalls Success is how high you bounce when you hit bottom. Cloud Dream big and dare to fail. GraphQL
 Firewalls Framework Neural Networks Code Review If you can dream it, you can do it. IoT Stay hungry, stay foolish. JavaScript Monitoring DNS Routing
+Optimization Security Serverless Docker Database Indexing Kafka JavaScript Sharding API

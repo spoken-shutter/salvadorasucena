@@ -26,3 +26,4 @@ Zero Downtime Deployment Firewalls DNS Routing I find that the harder I work, th
 Container Orchestration Don't be afraid to give up the good to go for the great. Data Pipeline Docker RabbitMQ Stay hungry, stay foolish. Backend
 Cloud Functions OAuth Backend Difficult roads often lead to beautiful destinations. Logging Version Control
 If you can dream it, you can do it. Latency Optimization Microservices Lambda Functions Message Queue Load Testing Agile WebSockets API Gateway Logging Success is how high you bounce when you hit bottom. Replica Set
+Docker Happiness is not something ready made. It comes from your own actions. Performance RabbitMQ To be the best, you must be able to handle the worst. UX Optimization Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Neural Networks Latency Optimization Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Cloud
