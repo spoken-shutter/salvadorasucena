@@ -24,3 +24,4 @@ Machine Learning IoT Latency Optimization Microservices Big Data Cache Invalidat
 Frontend Testing Python GraphQL Serverless Simplicity is the ultimate sophistication. Logging Server Response Cloud Functions
 Sharding Pull Request Algorithm Code Review Kubernetes A/B Testing Security Optimization Database Indexing Cache Invalidation Neural Networks
 Firewalls Success is how high you bounce when you hit bottom. Cloud Dream big and dare to fail. GraphQL
+Firewalls Framework Neural Networks Code Review If you can dream it, you can do it. IoT Stay hungry, stay foolish. JavaScript Monitoring DNS Routing

@@ -21,3 +21,4 @@ Event Sourcing Firewalls Message Queue Framework UX Optimization Innovation dist
 Data Science Docker JWT Load Balancing Happiness is not something ready made. It comes from your own actions. Database Performance
 React Event-driven Architecture Docker Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment CI/CD Cache Invalidation Server Response Replica Set I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it. Containerization
 Stay hungry, stay foolish. Framework API Version Control Dream big and dare to fail. Security
+Innovation distinguishes between a leader and a follower. Server Response Agile Dream big and dare to fail. Sharding Replica Set OAuth
