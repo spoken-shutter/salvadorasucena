@@ -16,3 +16,4 @@ Framework Work hard in silence, let your success be your noise. DNS Routing Mess
 Success doesn’t just find you. You have to go out and get it. Performance Blockchain Message Queue Scalability Serverless Backend Agile Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Lambda Functions
 Deployment Load Balancing Security Cloud Functions Cloud Load Testing Monitoring Logging Lambda Functions
 WebSockets RabbitMQ Quantum Computing Data Pipeline Logging
+Agile IoT Happiness is not something ready made. It comes from your own actions. Don't be afraid to give up the good to go for the great. Kafka NLP Cache Invalidation API Logging Security
