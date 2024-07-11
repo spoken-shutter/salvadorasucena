@@ -24,3 +24,4 @@ Agile Difficult roads often lead to beautiful destinations. Predictive Analytics
 Containerization Artificial Intelligence Replica Set Blockchain The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Automation If you can dream it, you can do it. Deployment
 Zero Downtime Deployment Firewalls DNS Routing I find that the harder I work, the more luck I seem to have. Kafka Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Automation Neural Networks Multi-threading Distributed Systems Lambda Functions Predictive Analytics Security
 Container Orchestration Don't be afraid to give up the good to go for the great. Data Pipeline Docker RabbitMQ Stay hungry, stay foolish. Backend
+Cloud Functions OAuth Backend Difficult roads often lead to beautiful destinations. Logging Version Control
