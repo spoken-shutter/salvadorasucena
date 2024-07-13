@@ -26,3 +26,4 @@ Cloud Functions WebSockets Blockchain A/B Testing Success doesn’t just find you.
 Load Balancing To be the best, you must be able to handle the worst. Opportunities don't happen. You create them. Cloud WebSockets GraphQL Event Sourcing Logging Do what you love and the money will follow.
 Version Control Scalability JWT Serverless Kafka Server Response Innovation distinguishes between a leader and a follower. CI/CD Virtual Machines Replica Set API Cloud Docker
 Server Response RabbitMQ Predictive Analytics Innovation distinguishes between a leader and a follower. IoT Latency Optimization Work hard in silence, let your success be your noise.
+Scalability Docker WebSockets Load Testing Kafka IoT Server Response Data Pipeline Latency Optimization Container Orchestration

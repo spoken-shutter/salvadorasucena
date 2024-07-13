@@ -21,3 +21,4 @@ Frontend Code Review Stay hungry, stay foolish. Virtual Machines Distributed Sys
 Optimization Database Indexing CI/CD Happiness is not something ready made. It comes from your own actions. Database Message Queue Kafka Simplicity is the ultimate sophistication. Serverless Monitoring Success doesn’t just find you. You have to go out and get it. Performance Load Balancing Security
 Code Review Content Delivery Network DevOps JavaScript Cloud Functions Monitoring Docker Latency Optimization JWT Security Great things never come from comfort zones. Zero Downtime Deployment
 Great things never come from comfort zones. Automation API Gateway Content Delivery Network Distributed Systems Lambda Functions Python Load Balancing
+Blockchain Happiness is not something ready made. It comes from your own actions. Code Review Innovation distinguishes between a leader and a follower. DNS Routing Neural Networks Containerization Security Testing

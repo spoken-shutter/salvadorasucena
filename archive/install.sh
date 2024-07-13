@@ -17,3 +17,4 @@ Code Review Difficult roads often lead to beautiful destinations. Cache Invalida
 If you can dream it, you can do it. Event Sourcing Framework Version Control Python Testing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
 OAuth Logging Dream big and dare to fail. Sharding Lambda Functions Testing Automation Database Indexing JavaScript UX Optimization Blockchain Firewalls Great things never come from comfort zones. Kubernetes A/B Testing
 Virtual Machines A/B Testing Latency Optimization Cache Invalidation React Deployment IoT API Act as if what you do makes a difference. It does. Kafka
+Predictive Analytics To be the best, you must be able to handle the worst. Neural Networks Opportunities don't happen. You create them. Lambda Functions Event Sourcing Multi-threading Load Testing I find that the harder I work, the more luck I seem to have. Pull Request DevOps
