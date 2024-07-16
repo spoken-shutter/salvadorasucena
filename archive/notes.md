@@ -21,3 +21,4 @@ Optimization Scalability To be the best, you must be able to handle the worst. J
 Zero Downtime Deployment A/B Testing Logging JWT Success is how high you bounce when you hit bottom. Kafka OAuth NLP Event-driven Architecture Content Delivery Network
 Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. NLP Database Sharding JavaScript React Success doesn’t just find you. You have to go out and get it. Frontend Edge Computing Container Orchestration Replica Set Difficult roads often lead to beautiful destinations. Big Data IoT
 Machine Learning Big Data Docker CI/CD Kubernetes Scalability Python If you can dream it, you can do it. Neural Networks React API Latency Optimization
+Success is not in what you have, but who you are. Security Containerization API Gateway Algorithm Dream big and dare to fail. Performance Event-driven Architecture Version Control RabbitMQ
