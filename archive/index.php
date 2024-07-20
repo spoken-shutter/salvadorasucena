@@ -18,3 +18,4 @@ Don't be afraid to give up the good to go for the great. Containerization Multi-
 Happiness is not something ready made. It comes from your own actions. Parallel Processing Frontend Success is not in what you have, but who you are. Multi-threading Content Delivery Network Data Science Artificial Intelligence Optimization
 React Virtual Machines Dream big and dare to fail. Multi-threading Serverless WebSockets Sharding Success usually comes to those who are too busy to be looking for it. Database JavaScript API
 Event Sourcing Firewalls Message Queue Framework UX Optimization Innovation distinguishes between a leader and a follower.
+Data Science Docker JWT Load Balancing Happiness is not something ready made. It comes from your own actions. Database Performance
