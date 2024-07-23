@@ -25,3 +25,4 @@ The only way to do great work is to love what you do. Success is not in what you
 Distributed Systems Sharding Cache Invalidation Virtual Machines Serverless Performance
 Scalability Content Delivery Network Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. Server Response Big Data Testing To be the best, you must be able to handle the worst. Firewalls Success is not in what you have, but who you are. Kafka
 Artificial Intelligence Serverless Success doesn’t just find you. You have to go out and get it. Scalability IoT Container Orchestration Event Sourcing Lambda Functions Replica Set
+Opportunities don't happen. You create them. Blockchain Algorithm Microservices Cache Invalidation WebSockets Version Control
