@@ -14,3 +14,4 @@ I find that the harder I work, the more luck I seem to have. If you can dream it
 Kubernetes JavaScript Cloud Functions Cloud API Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Python Database Load Balancing
 Artificial Intelligence Dream big and dare to fail. Opportunities don't happen. You create them. The only way to do great work is to love what you do. Python Kafka Distributed Systems Success is not in what you have, but who you are. Latency Optimization Backend
 IoT A/B Testing NLP Predictive Analytics Kafka Monitoring Firewalls Kubernetes Event-driven Architecture Automation OAuth Optimization Sharding Load Balancing
+UX Optimization Serverless Kafka Performance WebSockets Simplicity is the ultimate sophistication. Frontend Replica Set Virtual Machines DevOps CI/CD
