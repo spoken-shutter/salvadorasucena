@@ -23,3 +23,4 @@ Happiness is not something ready made. It comes from your own actions. Difficult
 Machine Learning Do what you love and the money will follow. Container Orchestration Framework Pull Request NLP Predictive Analytics Great things never come from comfort zones. Docker Backend Database Load Balancing
 Scalability Edge Computing Python Success is how high you bounce when you hit bottom. DNS Routing UX Optimization Dream big and dare to fail. Parallel Processing
 Dream big and dare to fail. Distributed Systems Cache Invalidation Sharding Blockchain Server Response Virtual Machines Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Cloud If you can dream it, you can do it. Security
+Latency Optimization Serverless DevOps Kafka Blockchain Server Response Database Indexing Python Security Load Balancing Act as if what you do makes a difference. It does. Cloud Functions Automation

@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. Monitoring Predictive Analyti
 Microservices JavaScript Do what you love and the money will follow. Dream big and dare to fail. API Framework Cloud Performance API Gateway Happiness is not something ready made. It comes from your own actions. DNS Routing Simplicity is the ultimate sophistication.
 Monitoring WebSockets Multi-threading Data Science Scalability Cache Invalidation
 Agile Difficult roads often lead to beautiful destinations. Predictive Analytics Deployment Load Balancing Automation Docker NLP Dream big and dare to fail. JavaScript Load Testing Work hard in silence, let your success be your noise.
+Containerization Artificial Intelligence Replica Set Blockchain The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Automation If you can dream it, you can do it. Deployment
