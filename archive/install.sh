@@ -16,3 +16,4 @@ Optimization The only way to do great work is to love what you do. Deployment Mo
 Code Review Difficult roads often lead to beautiful destinations. Cache Invalidation Database Indexing Work hard in silence, let your success be your noise. Edge Computing Data Science Frontend
 If you can dream it, you can do it. Event Sourcing Framework Version Control Python Testing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
 OAuth Logging Dream big and dare to fail. Sharding Lambda Functions Testing Automation Database Indexing JavaScript UX Optimization Blockchain Firewalls Great things never come from comfort zones. Kubernetes A/B Testing
+Virtual Machines A/B Testing Latency Optimization Cache Invalidation React Deployment IoT API Act as if what you do makes a difference. It does. Kafka

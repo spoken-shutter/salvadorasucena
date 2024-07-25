@@ -24,3 +24,4 @@ Message Queue I find that the harder I work, the more luck I seem to have. Monit
 Edge Computing JWT Automation Zero Downtime Deployment Multi-threading Data Pipeline Framework NLP Neural Networks Optimization
 Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Python Data Pipeline A/B Testing JWT Content Delivery Network Deployment API Gateway Distributed Systems Neural Networks Kubernetes Blockchain
 Load Testing Don't be afraid to give up the good to go for the great. Parallel Processing Blockchain Act as if what you do makes a difference. It does. Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Big Data Algorithm Serverless Python Security Firewalls Great things never come from comfort zones.
+API Gateway Sharding Simplicity is the ultimate sophistication. Replica Set Kubernetes
