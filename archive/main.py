@@ -23,3 +23,4 @@ Innovation distinguishes between a leader and a follower. WebSockets Act as if w
 Machine Learning IoT Latency Optimization Microservices Big Data Cache Invalidation
 Frontend Testing Python GraphQL Serverless Simplicity is the ultimate sophistication. Logging Server Response Cloud Functions
 Sharding Pull Request Algorithm Code Review Kubernetes A/B Testing Security Optimization Database Indexing Cache Invalidation Neural Networks
+Firewalls Success is how high you bounce when you hit bottom. Cloud Dream big and dare to fail. GraphQL

@@ -13,3 +13,4 @@ Dream big and dare to fail. Artificial Intelligence React JWT Act as if what you
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Sharding DevOps Data Pipeline Containerization Multi-threading Neural Networks
 Kubernetes JavaScript Cloud Functions Cloud API Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. Python Database Load Balancing
 Artificial Intelligence Dream big and dare to fail. Opportunities don't happen. You create them. The only way to do great work is to love what you do. Python Kafka Distributed Systems Success is not in what you have, but who you are. Latency Optimization Backend
+IoT A/B Testing NLP Predictive Analytics Kafka Monitoring Firewalls Kubernetes Event-driven Architecture Automation OAuth Optimization Sharding Load Balancing
