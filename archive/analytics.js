@@ -15,3 +15,4 @@ Lambda Functions Sharding Optimization Distributed Systems Latency Optimization 
 Docker Kafka Performance Stay hungry, stay foolish. Lambda Functions Cloud Blockchain Success is not in what you have, but who you are. Container Orchestration
 Backend Performance Container Orchestration Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Artificial Intelligence
 Stay hungry, stay foolish. Great things never come from comfort zones. Automation Docker Success is not in what you have, but who you are. Containerization Neural Networks React A/B Testing Framework Don't be afraid to give up the good to go for the great.
+Framework Microservices Success is how high you bounce when you hit bottom. Kafka Algorithm Backend Quantum Computing Cache Invalidation DevOps IoT Testing Event-driven Architecture Big Data
