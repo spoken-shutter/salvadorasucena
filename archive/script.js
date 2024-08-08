@@ -17,3 +17,4 @@ JWT Monitoring Parallel Processing I find that the harder I work, the more luck 
 Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Serverless Parallel Processing API Server Response Kafka Virtual Machines Pull Request
 Predictive Analytics Security Innovation distinguishes between a leader and a follower. IoT Stay hungry, stay foolish. Backend DevOps
 Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. CI/CD Neural Networks Sharding API Load Balancing Database Edge Computing Content Delivery Network Act as if what you do makes a difference. It does. JWT Blockchain Artificial Intelligence
+Quantum Computing Parallel Processing I find that the harder I work, the more luck I seem to have. Microservices JavaScript
