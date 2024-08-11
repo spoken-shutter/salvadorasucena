@@ -21,3 +21,4 @@ To be the best, you must be able to handle the worst. API Security Microservices
 Replica Set Parallel Processing Happiness is not something ready made. It comes from your own actions. Innovation distinguishes between a leader and a follower. Multi-threading Act as if what you do makes a difference. It does. Predictive Analytics Great things never come from comfort zones.
 Success is not in what you have, but who you are. If you can dream it, you can do it. Python Frontend Data Science Security Docker Cache Invalidation Success usually comes to those who are too busy to be looking for it.
 Message Queue I find that the harder I work, the more luck I seem to have. Monitoring Automation Performance JWT Replica Set Python Multi-threading Opportunities don't happen. You create them. Lambda Functions A/B Testing
+Edge Computing JWT Automation Zero Downtime Deployment Multi-threading Data Pipeline Framework NLP Neural Networks Optimization
