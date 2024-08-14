@@ -13,3 +13,4 @@ Code Review Logging Database Indexing OAuth React JWT Python NLP Replica Set Agi
 Server Response NLP Logging Cache Invalidation Success doesn’t just find you. You have to go out and get it. Data Science RabbitMQ Latency Optimization Microservices Multi-threading
 IoT Logging Docker Cloud Functions Backend Load Balancing
 Content Delivery Network Docker Frontend Predictive Analytics To be the best, you must be able to handle the worst. Algorithm Quantum Computing Database Indexing Opportunities don't happen. You create them. Great things never come from comfort zones. Agile
+JavaScript UX Optimization Zero Downtime Deployment To be the best, you must be able to handle the worst. Lambda Functions Blockchain Great things never come from comfort zones. Frontend The only way to do great work is to love what you do. Code Review Monitoring Big Data
