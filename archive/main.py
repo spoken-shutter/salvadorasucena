@@ -22,3 +22,4 @@ Success usually comes to those who are too busy to be looking for it. Data Scien
 Innovation distinguishes between a leader and a follower. WebSockets Act as if what you do makes a difference. It does. Containerization Code Review Security Cloud Functions JavaScript Pull Request Event Sourcing Quantum Computing
 Machine Learning IoT Latency Optimization Microservices Big Data Cache Invalidation
 Frontend Testing Python GraphQL Serverless Simplicity is the ultimate sophistication. Logging Server Response Cloud Functions
+Sharding Pull Request Algorithm Code Review Kubernetes A/B Testing Security Optimization Database Indexing Cache Invalidation Neural Networks
