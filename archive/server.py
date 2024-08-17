@@ -21,3 +21,4 @@ Python Kafka Virtual Machines Parallel Processing Testing Microservices Logging 
 Backend Cloud Functions Optimization Algorithm Content Delivery Network Data Science Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
 Message Queue If you can dream it, you can do it. WebSockets DevOps Dream big and dare to fail. Serverless The only way to do great work is to love what you do. Optimization Blockchain Machine Learning Lambda Functions Latency Optimization Content Delivery Network Logging
 Happiness is not something ready made. It comes from your own actions. Optimization Performance Cache Invalidation If you can dream it, you can do it. A/B Testing
+A/B Testing Stay hungry, stay foolish. Serverless Security Agile JWT Multi-threading Kubernetes API Algorithm Data Pipeline
