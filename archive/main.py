@@ -20,3 +20,4 @@ Simplicity is the ultimate sophistication. Multi-threading JavaScript JWT Algori
 Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Parallel Processing Blockchain Framework Performance Multi-threading
 Success usually comes to those who are too busy to be looking for it. Data Science Quantum Computing CI/CD Event Sourcing Artificial Intelligence Happiness is not something ready made. It comes from your own actions. OAuth
 Innovation distinguishes between a leader and a follower. WebSockets Act as if what you do makes a difference. It does. Containerization Code Review Security Cloud Functions JavaScript Pull Request Event Sourcing Quantum Computing
+Machine Learning IoT Latency Optimization Microservices Big Data Cache Invalidation
