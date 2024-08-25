@@ -14,3 +14,4 @@ Distributed Systems Act as if what you do makes a difference. It does. GraphQL V
 Simplicity is the ultimate sophistication. Database Python JavaScript Load Balancing The only way to do great work is to love what you do. IoT
 Blockchain Kubernetes Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Parallel Processing Cloud WebSockets Multi-threading Dream big and dare to fail. Artificial Intelligence Data Pipeline Sharding Version Control Simplicity is the ultimate sophistication.
 Success is not in what you have, but who you are. NLP Optimization Load Testing Message Queue IoT Work hard in silence, let your success be your noise. Big Data Do what you love and the money will follow.
+Scalability Replica Set Distributed Systems Automation Event Sourcing NLP Container Orchestration Deployment
