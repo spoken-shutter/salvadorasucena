@@ -20,3 +20,4 @@ Data Pipeline Replica Set Sharding Multi-threading Machine Learning Edge Computi
 Act as if what you do makes a difference. It does. Monitoring Predictive Analytics Simplicity is the ultimate sophistication. WebSockets NLP React Work hard in silence, let your success be your noise. Neural Networks Zero Downtime Deployment Scalability Code Review Load Balancing Lambda Functions Testing
 Microservices JavaScript Do what you love and the money will follow. Dream big and dare to fail. API Framework Cloud Performance API Gateway Happiness is not something ready made. It comes from your own actions. DNS Routing Simplicity is the ultimate sophistication.
 Monitoring WebSockets Multi-threading Data Science Scalability Cache Invalidation
+Agile Difficult roads often lead to beautiful destinations. Predictive Analytics Deployment Load Balancing Automation Docker NLP Dream big and dare to fail. JavaScript Load Testing Work hard in silence, let your success be your noise.
