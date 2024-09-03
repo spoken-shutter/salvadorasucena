@@ -19,3 +19,4 @@ Algorithm Distributed Systems Success doesn’t just find you. You have to go out 
 Data Pipeline Replica Set Sharding Multi-threading Machine Learning Edge Computing Innovation distinguishes between a leader and a follower. Python Monitoring Stay hungry, stay foolish. Data Science
 Act as if what you do makes a difference. It does. Monitoring Predictive Analytics Simplicity is the ultimate sophistication. WebSockets NLP React Work hard in silence, let your success be your noise. Neural Networks Zero Downtime Deployment Scalability Code Review Load Balancing Lambda Functions Testing
 Microservices JavaScript Do what you love and the money will follow. Dream big and dare to fail. API Framework Cloud Performance API Gateway Happiness is not something ready made. It comes from your own actions. DNS Routing Simplicity is the ultimate sophistication.
+Monitoring WebSockets Multi-threading Data Science Scalability Cache Invalidation
