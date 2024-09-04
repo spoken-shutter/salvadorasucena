@@ -12,3 +12,4 @@ DevOps React Cloud Load Balancing Logging NLP JavaScript Message Queue The only 
 Opportunities don't happen. You create them. Cloud Functions Performance JWT Load Testing
 Scalability Distributed Systems Cloud Functions To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower. Sharding Virtual Machines Message Queue Security Container Orchestration Monitoring Cache Invalidation Big Data Server Response DNS Routing
 Don't be afraid to give up the good to go for the great. Python RabbitMQ Docker Serverless Success is not in what you have, but who you are. Virtual Machines Opportunities don't happen. You create them. Database Kubernetes
+DNS Routing Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Content Delivery Network Simplicity is the ultimate sophistication. Cache Invalidation
