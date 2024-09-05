@@ -19,3 +19,4 @@ Multi-threading Load Balancing NLP Frontend Optimization Firewalls Virtual Machi
 Firewalls Database Indexing Success is not in what you have, but who you are. Replica Set IoT JWT Serverless Performance Predictive Analytics
 Optimization Scalability To be the best, you must be able to handle the worst. JWT Code Review Kafka DevOps UX Optimization NLP Performance IoT Success is how high you bounce when you hit bottom. Event Sourcing Deployment
 Zero Downtime Deployment A/B Testing Logging JWT Success is how high you bounce when you hit bottom. Kafka OAuth NLP Event-driven Architecture Content Delivery Network
+Success is not in what you have, but who you are. Don't be afraid to give up the good to go for the great. NLP Database Sharding JavaScript React Success doesn’t just find you. You have to go out and get it. Frontend Edge Computing Container Orchestration Replica Set Difficult roads often lead to beautiful destinations. Big Data IoT
