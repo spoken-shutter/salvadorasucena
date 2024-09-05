@@ -19,3 +19,4 @@ Version Control Scalability Lambda Functions Firewalls Docker JavaScript Logging
 Load Balancing Backend Version Control Lambda Functions Parallel Processing API Gateway The only way to do great work is to love what you do. Do what you love and the money will follow. Containerization
 Python Kafka Virtual Machines Parallel Processing Testing Microservices Logging Kubernetes React Pull Request RabbitMQ
 Backend Cloud Functions Optimization Algorithm Content Delivery Network Data Science Innovation distinguishes between a leader and a follower. To be the best, you must be able to handle the worst.
+Message Queue If you can dream it, you can do it. WebSockets DevOps Dream big and dare to fail. Serverless The only way to do great work is to love what you do. Optimization Blockchain Machine Learning Lambda Functions Latency Optimization Content Delivery Network Logging
