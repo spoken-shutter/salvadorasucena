@@ -9,3 +9,4 @@ Great things never come from comfort zones. Predictive Analytics Multi-threading
 Agile Code Review CI/CD Edge Computing To be the best, you must be able to handle the worst. Latency Optimization
 UX Optimization Logging Quantum Computing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. API Data Pipeline Agile
 Deployment JWT Machine Learning Replica Set Pull Request Sharding Performance RabbitMQ Cache Invalidation Innovation distinguishes between a leader and a follower.
+Code Review Logging Database Indexing OAuth React JWT Python NLP Replica Set Agile
