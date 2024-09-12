@@ -15,3 +15,4 @@ Stay hungry, stay foolish. CI/CD Backend Do what you love and the money will fol
 Docker NLP Innovation distinguishes between a leader and a follower. Neural Networks Firewalls React Simplicity is the ultimate sophistication.
 JWT Monitoring Parallel Processing I find that the harder I work, the more luck I seem to have. Big Data Serverless Difficult roads often lead to beautiful destinations. Frontend Database WebSockets Kafka
 Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Serverless Parallel Processing API Server Response Kafka Virtual Machines Pull Request
+Predictive Analytics Security Innovation distinguishes between a leader and a follower. IoT Stay hungry, stay foolish. Backend DevOps
