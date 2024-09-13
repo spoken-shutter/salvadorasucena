@@ -18,3 +18,4 @@ Server Response RabbitMQ Load Balancing Deployment Kafka Parallel Processing Sim
 Kafka Load Testing Scalability Agile Performance
 Simplicity is the ultimate sophistication. Multi-threading JavaScript JWT Algorithm Zero Downtime Deployment NLP Microservices Framework IoT Dream big and dare to fail. Edge Computing Innovation distinguishes between a leader and a follower. Distributed Systems
 Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Parallel Processing Blockchain Framework Performance Multi-threading
+Success usually comes to those who are too busy to be looking for it. Data Science Quantum Computing CI/CD Event Sourcing Artificial Intelligence Happiness is not something ready made. It comes from your own actions. OAuth
