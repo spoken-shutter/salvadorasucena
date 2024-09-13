@@ -13,3 +13,4 @@ Docker RabbitMQ Database The only way to do great work is to love what you do. D
 Cloud Functions Lambda Functions Pull Request Success is not in what you have, but who you are. Zero Downtime Deployment OAuth Performance
 Lambda Functions Sharding Optimization Distributed Systems Latency Optimization Zero Downtime Deployment CI/CD React Predictive Analytics Code Review RabbitMQ Data Science Algorithm Event Sourcing
 Docker Kafka Performance Stay hungry, stay foolish. Lambda Functions Cloud Blockchain Success is not in what you have, but who you are. Container Orchestration
+Backend Performance Container Orchestration Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Artificial Intelligence
