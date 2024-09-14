@@ -17,3 +17,4 @@ Monitoring Load Testing Event Sourcing Virtual Machines JWT OAuth To be the best
 Server Response RabbitMQ Load Balancing Deployment Kafka Parallel Processing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. React Success is how high you bounce when you hit bottom. Cache Invalidation
 Kafka Load Testing Scalability Agile Performance
 Simplicity is the ultimate sophistication. Multi-threading JavaScript JWT Algorithm Zero Downtime Deployment NLP Microservices Framework IoT Dream big and dare to fail. Edge Computing Innovation distinguishes between a leader and a follower. Distributed Systems
+Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Parallel Processing Blockchain Framework Performance Multi-threading
