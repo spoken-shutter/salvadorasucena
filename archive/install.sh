@@ -14,3 +14,4 @@ If you can dream it, you can do it. Database Indexing Load Balancing Distributed
 Dream big and dare to fail. Blockchain Data Science Opportunities don't happen. You create them. Database Indexing
 Optimization The only way to do great work is to love what you do. Deployment Monitoring Message Queue Database Algorithm Zero Downtime Deployment Python Cloud Functions Multi-threading To be the best, you must be able to handle the worst. If you can dream it, you can do it.
 Code Review Difficult roads often lead to beautiful destinations. Cache Invalidation Database Indexing Work hard in silence, let your success be your noise. Edge Computing Data Science Frontend
+If you can dream it, you can do it. Event Sourcing Framework Version Control Python Testing I find that the harder I work, the more luck I seem to have. Do what you love and the money will follow.
