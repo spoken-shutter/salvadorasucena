@@ -16,3 +16,4 @@ WebSockets Blockchain Success doesn’t just find you. You have to go out and get 
 Act as if what you do makes a difference. It does. A/B Testing Edge Computing To be the best, you must be able to handle the worst. Automation Difficult roads often lead to beautiful destinations. Message Queue NLP If you can dream it, you can do it.
 Serverless JavaScript To be the best, you must be able to handle the worst. Blockchain CI/CD Event-driven Architecture GraphQL If you can dream it, you can do it. Backend Code Review Content Delivery Network
 Version Control Scalability Lambda Functions Firewalls Docker JavaScript Logging
+Load Balancing Backend Version Control Lambda Functions Parallel Processing API Gateway The only way to do great work is to love what you do. Do what you love and the money will follow. Containerization
