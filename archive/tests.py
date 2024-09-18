@@ -12,3 +12,4 @@ Difficult roads often lead to beautiful destinations. Artificial Intelligence Da
 Frontend Database Success is how high you bounce when you hit bottom. Edge Computing UX Optimization Performance Monitoring Microservices To be the best, you must be able to handle the worst. API
 Distributed Systems Act as if what you do makes a difference. It does. GraphQL Version Control CI/CD Stay hungry, stay foolish. If you can dream it, you can do it. Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment
 Simplicity is the ultimate sophistication. Database Python JavaScript Load Balancing The only way to do great work is to love what you do. IoT
+Blockchain Kubernetes Zero Downtime Deployment I find that the harder I work, the more luck I seem to have. Parallel Processing Cloud WebSockets Multi-threading Dream big and dare to fail. Artificial Intelligence Data Pipeline Sharding Version Control Simplicity is the ultimate sophistication.
