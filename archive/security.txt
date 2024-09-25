@@ -10,3 +10,4 @@ Cloud Deployment Artificial Intelligence Security Database Sharding Microservice
 OAuth Logging Multi-threading Blockchain Don't be afraid to give up the good to go for the great. RabbitMQ Cache Invalidation NLP Algorithm Replica Set
 Lambda Functions Version Control Deployment Load Testing Database Indexing Cache Invalidation
 Work hard in silence, let your success be your noise. Parallel Processing Serverless Lambda Functions Python
+Data Pipeline IoT Automation I find that the harder I work, the more luck I seem to have. Backend Framework Scalability Dream big and dare to fail. DNS Routing Success usually comes to those who are too busy to be looking for it. Simplicity is the ultimate sophistication. Virtual Machines Version Control Great things never come from comfort zones. Code Review

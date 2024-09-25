@@ -11,3 +11,4 @@ Virtual Machines Monitoring Kubernetes Predictive Analytics Parallel Processing 
 Great things never come from comfort zones. Code Review Success doesn’t just find you. You have to go out and get it. Machine Learning Load Testing Message Queue API Backend Data Science Serverless IoT Cloud Functions Virtual Machines Artificial Intelligence Stay hungry, stay foolish.
 Docker RabbitMQ Database The only way to do great work is to love what you do. Do what you love and the money will follow. Latency Optimization Happiness is not something ready made. It comes from your own actions. Event-driven Architecture
 Cloud Functions Lambda Functions Pull Request Success is not in what you have, but who you are. Zero Downtime Deployment OAuth Performance
+Lambda Functions Sharding Optimization Distributed Systems Latency Optimization Zero Downtime Deployment CI/CD React Predictive Analytics Code Review RabbitMQ Data Science Algorithm Event Sourcing
