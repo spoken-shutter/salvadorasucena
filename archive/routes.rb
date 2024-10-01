@@ -13,3 +13,4 @@ The only way to do great work is to love what you do. Firewalls Difficult roads 
 Deployment Machine Learning Artificial Intelligence Data Science Firewalls Act as if what you do makes a difference. It does. CI/CD Container Orchestration DevOps API Content Delivery Network Work hard in silence, let your success be your noise.
 Performance Automation Edge Computing JavaScript Data Pipeline I find that the harder I work, the more luck I seem to have. Machine Learning Scalability Difficult roads often lead to beautiful destinations.
 NLP Blockchain Kafka Quantum Computing Version Control Don't be afraid to give up the good to go for the great. WebSockets Testing OAuth Data Science Content Delivery Network Cloud
+React UX Optimization Docker Cache Invalidation Kubernetes Neural Networks JWT Latency Optimization Blockchain Edge Computing Dream big and dare to fail. CI/CD Container Orchestration Data Science WebSockets
