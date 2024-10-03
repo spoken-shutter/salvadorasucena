@@ -7,3 +7,4 @@ Opportunities don't happen. You create them. Zero Downtime Deployment Container 
 Virtual Machines Optimization Framework IoT Containerization Code Review Container Orchestration Work hard in silence, let your success be your noise. Big Data Database Version Control Zero Downtime Deployment Lambda Functions Artificial Intelligence
 Great things never come from comfort zones. Predictive Analytics Multi-threading Distributed Systems API Deployment Database Indexing Logging Stay hungry, stay foolish. Scalability Cache Invalidation Serverless
 Agile Code Review CI/CD Edge Computing To be the best, you must be able to handle the worst. Latency Optimization
+UX Optimization Logging Quantum Computing Do what you love and the money will follow. Success is how high you bounce when you hit bottom. API Data Pipeline Agile
