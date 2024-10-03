@@ -12,3 +12,4 @@ Container Orchestration GraphQL Opportunities don't happen. You create them. Mes
 Database Indexing Virtual Machines Version Control To be the best, you must be able to handle the worst. Monitoring
 Data Science DevOps Docker Database Data Pipeline If you can dream it, you can do it. Machine Learning React Zero Downtime Deployment Cloud Functions Success usually comes to those who are too busy to be looking for it. Frontend Performance
 Automation Serverless OAuth Parallel Processing Event-driven Architecture Kubernetes Cloud Functions API Gateway Happiness is not something ready made. It comes from your own actions. Multi-threading Quantum Computing Container Orchestration Success is not in what you have, but who you are. Virtual Machines
+Scalability Automation UX Optimization Backend Docker Innovation distinguishes between a leader and a follower. Parallel Processing Serverless

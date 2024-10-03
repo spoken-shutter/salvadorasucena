@@ -15,3 +15,4 @@ Opportunities don't happen. You create them. Great things never come from comfor
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Optimization Big Data Container Orchestration Security Code Review DevOps Python
 Load Balancing Parallel Processing Automation Event-driven Architecture Difficult roads often lead to beautiful destinations. Serverless Kubernetes Docker Frontend NLP Sharding Act as if what you do makes a difference. It does. JWT
 Do what you love and the money will follow. Deployment Event-driven Architecture Lambda Functions Database Innovation distinguishes between a leader and a follower. Load Testing Cache Invalidation Event Sourcing JWT
+Message Queue Cloud Functions Data Pipeline Frontend Framework Performance Data Science GraphQL Success doesn’t just find you. You have to go out and get it. DevOps Backend JWT Security

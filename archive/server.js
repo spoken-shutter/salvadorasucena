@@ -17,3 +17,4 @@ Stay hungry, stay foolish. Multi-threading Logging Opportunities don't happen. Y
 Database Predictive Analytics Server Response Agile Microservices Logging
 Algorithm Distributed Systems Success doesn’t just find you. You have to go out and get it. A/B Testing Serverless Data Pipeline Stay hungry, stay foolish. Multi-threading NLP RabbitMQ Containerization Edge Computing
 Data Pipeline Replica Set Sharding Multi-threading Machine Learning Edge Computing Innovation distinguishes between a leader and a follower. Python Monitoring Stay hungry, stay foolish. Data Science
+Act as if what you do makes a difference. It does. Monitoring Predictive Analytics Simplicity is the ultimate sophistication. WebSockets NLP React Work hard in silence, let your success be your noise. Neural Networks Zero Downtime Deployment Scalability Code Review Load Balancing Lambda Functions Testing
