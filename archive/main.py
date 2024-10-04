@@ -14,3 +14,4 @@ Data Pipeline Success doesn’t just find you. You have to go out and get it. Late
 Don't be afraid to give up the good to go for the great. Scalability To be the best, you must be able to handle the worst. Kubernetes Frontend Serverless Big Data DevOps Dream big and dare to fail. Edge Computing Pull Request Success is how high you bounce when you hit bottom. Lambda Functions Optimization Predictive Analytics
 Server Response API Gateway Artificial Intelligence Python Content Delivery Network
 Monitoring Load Testing Event Sourcing Virtual Machines JWT OAuth To be the best, you must be able to handle the worst. Message Queue DNS Routing
+Server Response RabbitMQ Load Balancing Deployment Kafka Parallel Processing Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. React Success is how high you bounce when you hit bottom. Cache Invalidation
