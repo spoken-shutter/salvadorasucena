@@ -9,3 +9,4 @@ Blockchain Backend Data Pipeline Message Queue Machine Learning Agile Success us
 Microservices Do what you love and the money will follow. Algorithm Backend Cloud Difficult roads often lead to beautiful destinations. Scalability Quantum Computing Innovation distinguishes between a leader and a follower. Virtual Machines UX Optimization Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
 Testing Agile Replica Set Message Queue Algorithm DevOps API
 Zero Downtime Deployment Kubernetes WebSockets Frontend Backend JavaScript Load Testing Sharding RabbitMQ Automation Containerization Stay hungry, stay foolish. API Gateway
+Difficult roads often lead to beautiful destinations. Load Balancing Big Data I find that the harder I work, the more luck I seem to have. Quantum Computing Latency Optimization Dream big and dare to fail.

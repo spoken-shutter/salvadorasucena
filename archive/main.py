@@ -13,3 +13,4 @@ Microservices Replica Set API Gateway Cloud Functions Container Orchestration Io
 Data Pipeline Success doesn’t just find you. You have to go out and get it. Latency Optimization Cloud IoT UX Optimization Data Science I find that the harder I work, the more luck I seem to have.
 Don't be afraid to give up the good to go for the great. Scalability To be the best, you must be able to handle the worst. Kubernetes Frontend Serverless Big Data DevOps Dream big and dare to fail. Edge Computing Pull Request Success is how high you bounce when you hit bottom. Lambda Functions Optimization Predictive Analytics
 Server Response API Gateway Artificial Intelligence Python Content Delivery Network
+Monitoring Load Testing Event Sourcing Virtual Machines JWT OAuth To be the best, you must be able to handle the worst. Message Queue DNS Routing
