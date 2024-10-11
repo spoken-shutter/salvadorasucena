@@ -15,3 +15,4 @@ Version Control Zero Downtime Deployment Database Backend Blockchain
 CI/CD Container Orchestration Latency Optimization Opportunities don't happen. You create them. Edge Computing Simplicity is the ultimate sophistication. Scalability Containerization JWT UX Optimization Virtual Machines
 Content Delivery Network Database Indexing Latency Optimization Microservices Version Control Docker Algorithm Great things never come from comfort zones. Kubernetes DNS Routing To be the best, you must be able to handle the worst. DevOps Backend NLP
 Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. API Gateway Act as if what you do makes a difference. It does. Virtual Machines
+Multi-threading Load Balancing NLP Frontend Optimization Firewalls Virtual Machines
