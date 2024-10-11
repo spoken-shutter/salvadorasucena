@@ -17,3 +17,4 @@ Machine Learning Cloud Happiness is not something ready made. It comes from your
 Success is not in what you have, but who you are. Container Orchestration Cloud JWT Database Indexing Don't be afraid to give up the good to go for the great.
 Sharding Edge Computing I find that the harder I work, the more luck I seem to have. Frontend Cache Invalidation Load Balancing Backend Scalability Difficult roads often lead to beautiful destinations. Framework Success is how high you bounce when you hit bottom. IoT
 NLP Database Indexing Success is not in what you have, but who you are. Sharding Code Review DNS Routing Optimization Virtual Machines
+JavaScript Code Review DNS Routing Deployment Kafka Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Sharding IoT Testing Dream big and dare to fail. If you can dream it, you can do it. Algorithm Success is how high you bounce when you hit bottom.
