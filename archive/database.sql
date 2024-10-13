@@ -6,3 +6,4 @@ Serverless Firewalls Zero Downtime Deployment Version Control Lambda Functions C
 Opportunities don't happen. You create them. Zero Downtime Deployment Container Orchestration Code Review Replica Set The only way to do great work is to love what you do. Optimization Stay hungry, stay foolish. Agile
 Virtual Machines Optimization Framework IoT Containerization Code Review Container Orchestration Work hard in silence, let your success be your noise. Big Data Database Version Control Zero Downtime Deployment Lambda Functions Artificial Intelligence
 Great things never come from comfort zones. Predictive Analytics Multi-threading Distributed Systems API Deployment Database Indexing Logging Stay hungry, stay foolish. Scalability Cache Invalidation Serverless
+Agile Code Review CI/CD Edge Computing To be the best, you must be able to handle the worst. Latency Optimization
