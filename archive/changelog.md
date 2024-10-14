@@ -13,3 +13,4 @@ Happiness is not something ready made. It comes from your own actions. Microserv
 Load Testing API Version Control Containerization Machine Learning DNS Routing Container Orchestration Dream big and dare to fail. Zero Downtime Deployment OAuth To be the best, you must be able to handle the worst.
 Opportunities don't happen. You create them. Great things never come from comfort zones. Container Orchestration Algorithm Dream big and dare to fail. Automation Python
 Don't be afraid to give up the good to go for the great. Do what you love and the money will follow. Optimization Big Data Container Orchestration Security Code Review DevOps Python
+Load Balancing Parallel Processing Automation Event-driven Architecture Difficult roads often lead to beautiful destinations. Serverless Kubernetes Docker Frontend NLP Sharding Act as if what you do makes a difference. It does. JWT
