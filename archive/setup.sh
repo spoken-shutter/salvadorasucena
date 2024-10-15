@@ -15,3 +15,4 @@ API Lambda Functions Zero Downtime Deployment NLP Testing Difficult roads often 
 Difficult roads often lead to beautiful destinations. Database Kubernetes Cloud Big Data Zero Downtime Deployment Stay hungry, stay foolish. Opportunities don't happen. You create them. API Gateway Artificial Intelligence Framework Database Indexing Containerization To be the best, you must be able to handle the worst. Data Science
 OAuth React Message Queue Firewalls Replica Set NLP Pull Request The only way to do great work is to love what you do. Quantum Computing Version Control
 Frontend Stay hungry, stay foolish. Containerization OAuth JavaScript Replica Set Big Data Edge Computing Docker The only way to do great work is to love what you do.
+Success is not in what you have, but who you are. Frontend Server Response Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Sharding

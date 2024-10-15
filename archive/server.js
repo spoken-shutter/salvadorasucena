@@ -13,3 +13,4 @@ Opportunities don't happen. You create them. React Monitoring Performance Predic
 Great things never come from comfort zones. Performance The only way to do great work is to love what you do. WebSockets JavaScript Load Balancing Docker Monitoring Firewalls Edge Computing Cloud Functions
 Virtual Machines If you can dream it, you can do it. RabbitMQ React Lambda Functions Happiness is not something ready made. It comes from your own actions. Kafka
 WebSockets JWT React Virtual Machines Difficult roads often lead to beautiful destinations. Pull Request Machine Learning
+Stay hungry, stay foolish. Multi-threading Logging Opportunities don't happen. You create them. Replica Set Testing DevOps Simplicity is the ultimate sophistication. Don't be afraid to give up the good to go for the great. Monitoring Happiness is not something ready made. It comes from your own actions. Event-driven Architecture

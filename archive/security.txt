@@ -8,3 +8,4 @@ Artificial Intelligence Machine Learning Database Indexing Data Science Success 
 Predictive Analytics Simplicity is the ultimate sophistication. Act as if what you do makes a difference. It does. Cloud Kafka API
 Cloud Deployment Artificial Intelligence Security Database Sharding Microservices Great things never come from comfort zones. GraphQL I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Cloud Functions Edge Computing CI/CD RabbitMQ
 OAuth Logging Multi-threading Blockchain Don't be afraid to give up the good to go for the great. RabbitMQ Cache Invalidation NLP Algorithm Replica Set
+Lambda Functions Version Control Deployment Load Testing Database Indexing Cache Invalidation
