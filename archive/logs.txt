@@ -16,3 +16,4 @@ OAuth Security CI/CD UX Optimization Dream big and dare to fail. Scalability Art
 Machine Learning Cloud Happiness is not something ready made. It comes from your own actions. Firewalls Act as if what you do makes a difference. It does. Scalability
 Success is not in what you have, but who you are. Container Orchestration Cloud JWT Database Indexing Don't be afraid to give up the good to go for the great.
 Sharding Edge Computing I find that the harder I work, the more luck I seem to have. Frontend Cache Invalidation Load Balancing Backend Scalability Difficult roads often lead to beautiful destinations. Framework Success is how high you bounce when you hit bottom. IoT
+NLP Database Indexing Success is not in what you have, but who you are. Sharding Code Review DNS Routing Optimization Virtual Machines
