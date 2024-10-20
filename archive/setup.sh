@@ -14,3 +14,4 @@ Great things never come from comfort zones. Microservices OAuth API Algorithm Re
 API Lambda Functions Zero Downtime Deployment NLP Testing Difficult roads often lead to beautiful destinations. Load Testing Sharding React Latency Optimization JWT
 Difficult roads often lead to beautiful destinations. Database Kubernetes Cloud Big Data Zero Downtime Deployment Stay hungry, stay foolish. Opportunities don't happen. You create them. API Gateway Artificial Intelligence Framework Database Indexing Containerization To be the best, you must be able to handle the worst. Data Science
 OAuth React Message Queue Firewalls Replica Set NLP Pull Request The only way to do great work is to love what you do. Quantum Computing Version Control
+Frontend Stay hungry, stay foolish. Containerization OAuth JavaScript Replica Set Big Data Edge Computing Docker The only way to do great work is to love what you do.
