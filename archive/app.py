@@ -8,3 +8,4 @@ Database Indexing I find that the harder I work, the more luck I seem to have. A
 DevOps Event Sourcing OAuth The only way to do great work is to love what you do. Success usually comes to those who are too busy to be looking for it. Serverless If you can dream it, you can do it. Containerization Kubernetes Code Review
 Neural Networks Blockchain Work hard in silence, let your success be your noise. Version Control Virtual Machines IoT Data Pipeline API Cache Invalidation GraphQL
 Quantum Computing Opportunities don't happen. You create them. Great things never come from comfort zones. Version Control Framework Distributed Systems React Parallel Processing Dream big and dare to fail. Event Sourcing Backend Don't be afraid to give up the good to go for the great.
+DevOps React Cloud Load Balancing Logging NLP JavaScript Message Queue The only way to do great work is to love what you do. Virtual Machines Security Success is how high you bounce when you hit bottom.

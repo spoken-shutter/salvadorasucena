@@ -13,3 +13,4 @@ DNS Routing DevOps Agile To be the best, you must be able to handle the worst. D
 CI/CD Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Big Data Automation React Event Sourcing Data Science Framework Stay hungry, stay foolish. Happiness is not something ready made. It comes from your own actions. API Agile Server Response Success doesn’t just find you. You have to go out and get it.
 Version Control Zero Downtime Deployment Database Backend Blockchain
 CI/CD Container Orchestration Latency Optimization Opportunities don't happen. You create them. Edge Computing Simplicity is the ultimate sophistication. Scalability Containerization JWT UX Optimization Virtual Machines
+Content Delivery Network Database Indexing Latency Optimization Microservices Version Control Docker Algorithm Great things never come from comfort zones. Kubernetes DNS Routing To be the best, you must be able to handle the worst. DevOps Backend NLP
