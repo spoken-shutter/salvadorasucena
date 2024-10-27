@@ -8,3 +8,4 @@ Lambda Functions IoT Load Balancing Success usually comes to those who are too b
 GraphQL Load Balancing Cache Invalidation CI/CD The only way to do great work is to love what you do. Version Control Neural Networks Algorithm Zero Downtime Deployment Agile WebSockets Success is how high you bounce when you hit bottom.
 DevOps Success doesn’t just find you. You have to go out and get it. Event Sourcing Data Pipeline Scalability Container Orchestration Deployment Automation A/B Testing Latency Optimization Kafka Cache Invalidation Act as if what you do makes a difference. It does. Security Simplicity is the ultimate sophistication.
 Data Pipeline UX Optimization Lambda Functions Virtual Machines Message Queue Do what you love and the money will follow.
+Python If you can dream it, you can do it. Container Orchestration Quantum Computing Deployment I find that the harder I work, the more luck I seem to have. Automation Microservices
