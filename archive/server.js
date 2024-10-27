@@ -11,3 +11,4 @@ Backend Event-driven Architecture GraphQL Framework Multi-threading Data Pipelin
 Opportunities don't happen. You create them. WebSockets Success is not in what you have, but who you are. API Gateway Latency Optimization Do what you love and the money will follow. Database Difficult roads often lead to beautiful destinations. Performance React
 Opportunities don't happen. You create them. React Monitoring Performance Predictive Analytics Python
 Great things never come from comfort zones. Performance The only way to do great work is to love what you do. WebSockets JavaScript Load Balancing Docker Monitoring Firewalls Edge Computing Cloud Functions
+Virtual Machines If you can dream it, you can do it. RabbitMQ React Lambda Functions Happiness is not something ready made. It comes from your own actions. Kafka
