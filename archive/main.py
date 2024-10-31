@@ -9,3 +9,4 @@ RabbitMQ Happiness is not something ready made. It comes from your own actions. 
 Event Sourcing Code Review Difficult roads often lead to beautiful destinations. IoT Agile Success is how high you bounce when you hit bottom. I find that the harder I work, the more luck I seem to have. Edge Computing
 Latency Optimization Content Delivery Network Database Indexing Kafka Happiness is not something ready made. It comes from your own actions. Code Review Container Orchestration Success doesn’t just find you. You have to go out and get it. Quantum Computing Backend OAuth A/B Testing Frontend Data Science The only way to do great work is to love what you do.
 Deployment Content Delivery Network Edge Computing DNS Routing Code Review Kubernetes Serverless Containerization Message Queue Data Science The only way to do great work is to love what you do. Version Control
+Microservices Replica Set API Gateway Cloud Functions Container Orchestration IoT Load Balancing
