@@ -9,3 +9,4 @@ Machine Learning Event Sourcing Microservices Version Control Artificial Intelli
 Event-driven Architecture Stay hungry, stay foolish. API Gateway React Monitoring Content Delivery Network Sharding Work hard in silence, let your success be your noise.
 Predictive Analytics Server Response React Testing Frontend Do what you love and the money will follow. Data Science Agile NLP Security
 Performance Event-driven Architecture Replica Set Data Pipeline Firewalls Opportunities don't happen. You create them. Testing Cache Invalidation Containerization
+Container Orchestration OAuth Event Sourcing CI/CD Monitoring GraphQL DNS Routing Edge Computing Database Success doesn’t just find you. You have to go out and get it. Machine Learning
