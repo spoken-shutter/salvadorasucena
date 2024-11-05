@@ -10,3 +10,4 @@ Event-driven Architecture Stay hungry, stay foolish. API Gateway React Monitorin
 Predictive Analytics Server Response React Testing Frontend Do what you love and the money will follow. Data Science Agile NLP Security
 Performance Event-driven Architecture Replica Set Data Pipeline Firewalls Opportunities don't happen. You create them. Testing Cache Invalidation Containerization
 Container Orchestration OAuth Event Sourcing CI/CD Monitoring GraphQL DNS Routing Edge Computing Database Success doesn’t just find you. You have to go out and get it. Machine Learning
+Great things never come from comfort zones. Microservices OAuth API Algorithm React Act as if what you do makes a difference. It does. Security Happiness is not something ready made. It comes from your own actions. Event Sourcing Do what you love and the money will follow.
