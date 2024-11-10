@@ -7,3 +7,4 @@ Machine Learning Cloud Great things never come from comfort zones. Firewalls Cac
 Sharding Automation RabbitMQ Load Testing Parallel Processing Data Science Optimization API Gateway Cloud JWT NLP UX Optimization Content Delivery Network React
 Blockchain Backend Data Pipeline Message Queue Machine Learning Agile Success usually comes to those who are too busy to be looking for it. Lambda Functions Edge Computing
 Microservices Do what you love and the money will follow. Algorithm Backend Cloud Difficult roads often lead to beautiful destinations. Scalability Quantum Computing Innovation distinguishes between a leader and a follower. Virtual Machines UX Optimization Happiness is not something ready made. It comes from your own actions. If you can dream it, you can do it.
+Testing Agile Replica Set Message Queue Algorithm DevOps API
