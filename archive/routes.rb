@@ -7,3 +7,4 @@ Database Indexing Python IoT Act as if what you do makes a difference. It does. 
 Predictive Analytics Cache Invalidation Event-driven Architecture JWT Difficult roads often lead to beautiful destinations. Pull Request NLP Multi-threading Algorithm OAuth Optimization
 The only way to do great work is to love what you do. Latency Optimization Framework Machine Learning Multi-threading Dream big and dare to fail. CI/CD Lambda Functions Scalability
 DevOps Work hard in silence, let your success be your noise. Success doesn’t just find you. You have to go out and get it. Server Response NLP Version Control Success is how high you bounce when you hit bottom. Monitoring Parallel Processing Happiness is not something ready made. It comes from your own actions.
+A/B Testing Act as if what you do makes a difference. It does. CI/CD Automation Performance Content Delivery Network
