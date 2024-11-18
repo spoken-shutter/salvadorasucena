@@ -7,3 +7,4 @@ OAuth NLP Data Science Happiness is not something ready made. It comes from your
 Happiness is not something ready made. It comes from your own actions. Big Data Opportunities don't happen. You create them. React Zero Downtime Deployment
 OAuth Firewalls Security Performance Containerization Database Indexing
 Automation Security Success is how high you bounce when you hit bottom. Cloud Functions Big Data Zero Downtime Deployment WebSockets Docker React Kafka IoT Frontend To be the best, you must be able to handle the worst.
+Scalability GraphQL Success is not in what you have, but who you are. Event-driven Architecture Edge Computing
