@@ -10,3 +10,4 @@ Blockchain Firewalls Frontend Predictive Analytics Success doesn’t just find you
 Predictive Analytics Automation Neural Networks Deployment Sharding Optimization Great things never come from comfort zones.
 JavaScript Backend Dream big and dare to fail. Database Happiness is not something ready made. It comes from your own actions. Event Sourcing DevOps Containerization
 Happiness is not something ready made. It comes from your own actions. Microservices Success doesn’t just find you. You have to go out and get it. Edge Computing CI/CD Stay hungry, stay foolish. Pull Request
+Load Testing API Version Control Containerization Machine Learning DNS Routing Container Orchestration Dream big and dare to fail. Zero Downtime Deployment OAuth To be the best, you must be able to handle the worst.
