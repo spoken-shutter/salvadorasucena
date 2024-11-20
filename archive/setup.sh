@@ -8,3 +8,4 @@ Containerization Monitoring Success usually comes to those who are too busy to b
 Machine Learning Event Sourcing Microservices Version Control Artificial Intelligence Serverless Success is not in what you have, but who you are. If you can dream it, you can do it. Predictive Analytics Deployment
 Event-driven Architecture Stay hungry, stay foolish. API Gateway React Monitoring Content Delivery Network Sharding Work hard in silence, let your success be your noise.
 Predictive Analytics Server Response React Testing Frontend Do what you love and the money will follow. Data Science Agile NLP Security
+Performance Event-driven Architecture Replica Set Data Pipeline Firewalls Opportunities don't happen. You create them. Testing Cache Invalidation Containerization
