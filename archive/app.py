@@ -4,3 +4,4 @@ API Gateway DevOps The only way to do great work is to love what you do. Python 
 Database Data Science Monitoring Backend Docker Load Testing DNS Routing Container Orchestration Frontend A/B Testing Work hard in silence, let your success be your noise. Scalability Serverless
 Latency Optimization IoT Automation Version Control CI/CD Distributed Systems Happiness is not something ready made. It comes from your own actions. Cloud Functions NLP
 Latency Optimization Dream big and dare to fail. Monitoring Load Testing Code Review Cache Invalidation Container Orchestration Multi-threading Load Balancing
+Database Indexing I find that the harder I work, the more luck I seem to have. Artificial Intelligence Content Delivery Network Serverless Lambda Functions Sharding Python Distributed Systems React Latency Optimization Machine Learning Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it.
