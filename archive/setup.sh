@@ -6,3 +6,4 @@ A/B Testing Big Data Monitoring Multi-threading DevOps Version Control
 Backend Agile Database WebSockets Data Pipeline CI/CD Event Sourcing Simplicity is the ultimate sophistication. Docker
 Containerization Monitoring Success usually comes to those who are too busy to be looking for it. Edge Computing NLP
 Machine Learning Event Sourcing Microservices Version Control Artificial Intelligence Serverless Success is not in what you have, but who you are. If you can dream it, you can do it. Predictive Analytics Deployment
+Event-driven Architecture Stay hungry, stay foolish. API Gateway React Monitoring Content Delivery Network Sharding Work hard in silence, let your success be your noise.
