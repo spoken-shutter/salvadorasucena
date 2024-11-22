@@ -9,3 +9,4 @@ Replica Set Scalability If you can dream it, you can do it. React NLP Kubernetes
 Blockchain Firewalls Frontend Predictive Analytics Success doesn’t just find you. You have to go out and get it. Version Control A/B Testing Event Sourcing Message Queue GraphQL Optimization API Gateway Success is how high you bounce when you hit bottom. OAuth
 Predictive Analytics Automation Neural Networks Deployment Sharding Optimization Great things never come from comfort zones.
 JavaScript Backend Dream big and dare to fail. Database Happiness is not something ready made. It comes from your own actions. Event Sourcing DevOps Containerization
+Happiness is not something ready made. It comes from your own actions. Microservices Success doesn’t just find you. You have to go out and get it. Edge Computing CI/CD Stay hungry, stay foolish. Pull Request
