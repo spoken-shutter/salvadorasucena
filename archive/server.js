@@ -6,3 +6,4 @@ Edge Computing Lambda Functions RabbitMQ React Python Scalability Success is how
 Frontend Database Indexing Lambda Functions Database Dream big and dare to fail. Machine Learning
 Server Response Container Orchestration Blockchain Framework Frontend
 Message Queue Automation Code Review Server Response Success is how high you bounce when you hit bottom. Distributed Systems Zero Downtime Deployment Neural Networks Act as if what you do makes a difference. It does. Opportunities don't happen. You create them. Monitoring Backend Sharding Event-driven Architecture Kubernetes
+Frontend Work hard in silence, let your success be your noise. Kubernetes A/B Testing OAuth I find that the harder I work, the more luck I seem to have. Logging WebSockets DNS Routing React Success doesn’t just find you. You have to go out and get it. Deployment API Gateway Blockchain JavaScript
