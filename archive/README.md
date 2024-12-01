@@ -5,3 +5,4 @@ NLP Python IoT Logging Success is not in what you have, but who you are. Do what
 Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. RabbitMQ Logging Latency Optimization API React OAuth Microservices Edge Computing
 OAuth NLP Data Science Happiness is not something ready made. It comes from your own actions. Edge Computing Sharding Success is not in what you have, but who you are. Work hard in silence, let your success be your noise. Backend Data Pipeline Kafka
 Happiness is not something ready made. It comes from your own actions. Big Data Opportunities don't happen. You create them. React Zero Downtime Deployment
+OAuth Firewalls Security Performance Containerization Database Indexing
