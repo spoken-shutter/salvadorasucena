@@ -7,3 +7,4 @@ Testing Scalability Optimization Success is how high you bounce when you hit bot
 Do what you love and the money will follow. Monitoring Great things never come from comfort zones. RabbitMQ OAuth Zero Downtime Deployment Blockchain UX Optimization Optimization
 Sharding I find that the harder I work, the more luck I seem to have. API Gateway Security If you can dream it, you can do it. Do what you love and the money will follow. Backend
 Artificial Intelligence Algorithm Success is how high you bounce when you hit bottom. Difficult roads often lead to beautiful destinations. Success usually comes to those who are too busy to be looking for it. Load Balancing If you can dream it, you can do it.
+A/B Testing Testing Performance To be the best, you must be able to handle the worst. Serverless Backend
