@@ -3,3 +3,4 @@ Container Orchestration Containerization Blockchain Algorithm Success is not in 
 Success is not in what you have, but who you are. Cloud Functions Code Review Zero Downtime Deployment Kubernetes JWT Testing Distributed Systems Performance Multi-threading Success doesn’t just find you. You have to go out and get it. Security
 Docker Framework Act as if what you do makes a difference. It does. Cloud Data Pipeline Cloud Functions Opportunities don't happen. You create them. React GraphQL Serverless Code Review To be the best, you must be able to handle the worst. Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Automation
 A/B Testing Big Data Monitoring Multi-threading DevOps Version Control
+Backend Agile Database WebSockets Data Pipeline CI/CD Event Sourcing Simplicity is the ultimate sophistication. Docker
