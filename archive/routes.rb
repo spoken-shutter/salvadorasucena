@@ -2,3 +2,4 @@ Firewalls Artificial Intelligence Event-driven Architecture Machine Learning Con
 Optimization Quantum Computing Automation API Gateway Security Algorithm Event-driven Architecture Scalability Multi-threading JavaScript Firewalls
 Logging Monitoring Frontend Cloud Version Control Replica Set Algorithm Message Queue Success is how high you bounce when you hit bottom.
 Database Indexing Cloud Functions Lambda Functions Framework Performance
+UX Optimization Kafka Virtual Machines WebSockets Act as if what you do makes a difference. It does. Success doesn’t just find you. You have to go out and get it. JavaScript React
