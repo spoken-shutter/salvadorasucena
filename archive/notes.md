@@ -5,3 +5,4 @@ Event-driven Architecture Container Orchestration NLP Difficult roads often lead
 Event-driven Architecture Success doesn’t just find you. You have to go out and get it. Logging Simplicity is the ultimate sophistication. Blockchain RabbitMQ
 Testing Scalability Optimization Success is how high you bounce when you hit bottom. Virtual Machines Lambda Functions Difficult roads often lead to beautiful destinations. Framework NLP Serverless Work hard in silence, let your success be your noise. Agile
 Do what you love and the money will follow. Monitoring Great things never come from comfort zones. RabbitMQ OAuth Zero Downtime Deployment Blockchain UX Optimization Optimization
+Sharding I find that the harder I work, the more luck I seem to have. API Gateway Security If you can dream it, you can do it. Do what you love and the money will follow. Backend
