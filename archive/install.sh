@@ -2,3 +2,4 @@ Logging Opportunities don't happen. You create them. JWT Multi-threading Difficu
 Frontend A/B Testing Neural Networks Machine Learning RabbitMQ Agile
 Act as if what you do makes a difference. It does. Code Review To be the best, you must be able to handle the worst. React Version Control API Gateway Message Queue
 Cloud Microservices Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Container Orchestration OAuth Agile Code Review Kubernetes DNS Routing React Performance Multi-threading To be the best, you must be able to handle the worst. Artificial Intelligence
+Work hard in silence, let your success be your noise. Algorithm Event-driven Architecture Multi-threading Replica Set To be the best, you must be able to handle the worst.
