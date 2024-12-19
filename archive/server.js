@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Containerization Serverles
 API Do what you love and the money will follow. Quantum Computing Stay hungry, stay foolish. Event Sourcing Neural Networks Event-driven Architecture Automation Message Queue Docker Database Indexing DevOps Great things never come from comfort zones.
 Edge Computing Lambda Functions RabbitMQ React Python Scalability Success is how high you bounce when you hit bottom. Version Control Multi-threading Frontend Big Data Database Indexing Success is not in what you have, but who you are. Difficult roads often lead to beautiful destinations. Monitoring
 Frontend Database Indexing Lambda Functions Database Dream big and dare to fail. Machine Learning
+Server Response Container Orchestration Blockchain Framework Frontend
