@@ -7,3 +7,4 @@ Artificial Intelligence Server Response Security Backend Success usually comes t
 API Agile Happiness is not something ready made. It comes from your own actions. Docker Load Balancing Load Testing Success doesn’t just find you. You have to go out and get it.
 Kubernetes React Sharding Stay hungry, stay foolish. Innovation distinguishes between a leader and a follower. Happiness is not something ready made. It comes from your own actions. Pull Request Difficult roads often lead to beautiful destinations.
 Server Response Scalability DNS Routing Load Testing Version Control Data Pipeline
+WebSockets Container Orchestration Server Response Success is how high you bounce when you hit bottom. Serverless Deployment CI/CD Distributed Systems Load Testing Frontend I find that the harder I work, the more luck I seem to have. Success doesn’t just find you. You have to go out and get it. React Stay hungry, stay foolish.
