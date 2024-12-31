@@ -2,3 +2,4 @@ Success is not in what you have, but who you are. Database Indexing Distributed 
 Performance Load Balancing Testing Replica Set Success usually comes to those who are too busy to be looking for it. Algorithm
 GraphQL Opportunities don't happen. You create them. Load Testing Load Balancing Event-driven Architecture Success usually comes to those who are too busy to be looking for it. Success is how high you bounce when you hit bottom.
 NLP Python IoT Logging Success is not in what you have, but who you are. Do what you love and the money will follow. Virtual Machines Big Data RabbitMQ Edge Computing Testing Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower.
+Difficult roads often lead to beautiful destinations. Innovation distinguishes between a leader and a follower. Opportunities don't happen. You create them. RabbitMQ Logging Latency Optimization API React OAuth Microservices Edge Computing
