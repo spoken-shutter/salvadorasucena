@@ -2,3 +2,4 @@ Simplicity is the ultimate sophistication. Edge Computing JavaScript Artificial 
 I find that the harder I work, the more luck I seem to have. Server Response Content Delivery Network Cloud Python Don't be afraid to give up the good to go for the great. Data Science Opportunities don't happen. You create them.
 A/B Testing Virtual Machines GraphQL Distributed Systems React Multi-threading
 Serverless Backend Performance Python Virtual Machines Security Blockchain Content Delivery Network CI/CD Testing Scalability API Gateway Cloud Functions Event Sourcing
+Kubernetes Parallel Processing Event Sourcing Blockchain Deployment Edge Computing Database If you can dream it, you can do it. Database Indexing Agile Microservices Performance Dream big and dare to fail. Artificial Intelligence
