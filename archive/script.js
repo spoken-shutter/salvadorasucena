@@ -3,3 +3,4 @@ Load Testing Kafka Don't be afraid to give up the good to go for the great. I fi
 Dream big and dare to fail. Agile If you can dream it, you can do it. Backend Monitoring Kafka Artificial Intelligence Distributed Systems Algorithm
 RabbitMQ Virtual Machines React Happiness is not something ready made. It comes from your own actions. Lambda Functions Containerization Server Response Big Data Latency Optimization Zero Downtime Deployment Cloud Load Testing DevOps Firewalls
 Data Science JWT GraphQL Latency Optimization Kafka Great things never come from comfort zones. API Optimization OAuth Success is not in what you have, but who you are. Cloud Functions Cloud Success usually comes to those who are too busy to be looking for it. Multi-threading Pull Request
+Load Testing Difficult roads often lead to beautiful destinations. Kubernetes Blockchain Kafka Automation Predictive Analytics If you can dream it, you can do it.
