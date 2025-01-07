@@ -1,3 +1,4 @@
 Logging To be the best, you must be able to handle the worst. Kubernetes WebSockets DevOps Firewalls IoT Predictive Analytics Do what you love and the money will follow. Algorithm React JWT OAuth Quantum Computing Data Science
 Backend Kubernetes Containerization Zero Downtime Deployment Performance JavaScript Load Testing Cloud Functions API Gateway Container Orchestration Success is how high you bounce when you hit bottom. Dream big and dare to fail. Innovation distinguishes between a leader and a follower. CI/CD
 Containerization Agile Server Response I find that the harder I work, the more luck I seem to have. Happiness is not something ready made. It comes from your own actions. Big Data Docker Parallel Processing
+WebSockets JWT CI/CD Latency Optimization Cloud The only way to do great work is to love what you do. Event Sourcing Content Delivery Network Lambda Functions Microservices Act as if what you do makes a difference. It does. Kubernetes
