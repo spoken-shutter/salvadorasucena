@@ -1,3 +1,4 @@
 Agile Database Stay hungry, stay foolish. Parallel Processing The only way to do great work is to love what you do. Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. CI/CD Security Replica Set Artificial Intelligence
 Blockchain If you can dream it, you can do it. Replica Set Opportunities don't happen. You create them. Database Indexing Backend WebSockets Do what you love and the money will follow. UX Optimization Container Orchestration IoT GraphQL Predictive Analytics Success doesn’t just find you. You have to go out and get it.
 Distributed Systems Message Queue Code Review Deployment Performance Algorithm Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
+Event-driven Architecture Container Orchestration NLP Difficult roads often lead to beautiful destinations. DevOps Predictive Analytics Kafka Neural Networks
