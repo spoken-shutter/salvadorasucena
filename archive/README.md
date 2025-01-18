@@ -1,1 +1,2 @@
 Success is not in what you have, but who you are. Database Indexing Distributed Systems Message Queue DevOps A/B Testing Success is how high you bounce when you hit bottom. Frontend Difficult roads often lead to beautiful destinations. Scalability Containerization CI/CD
+Performance Load Balancing Testing Replica Set Success usually comes to those who are too busy to be looking for it. Algorithm
