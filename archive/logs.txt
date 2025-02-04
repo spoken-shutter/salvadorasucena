@@ -1,3 +1,4 @@
 Version Control DNS Routing Message Queue Distributed Systems API Lambda Functions Latency Optimization
 Dream big and dare to fail. Load Testing RabbitMQ Predictive Analytics Act as if what you do makes a difference. It does. Sharding If you can dream it, you can do it.
 Database Data Science Containerization Automation DNS Routing Agile React Monitoring Kubernetes Great things never come from comfort zones. Framework
+Version Control OAuth Artificial Intelligence Predictive Analytics Deployment RabbitMQ JWT A/B Testing Framework Opportunities don't happen. You create them. Cloud Functions Serverless Kubernetes Big Data
