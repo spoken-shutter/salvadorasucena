@@ -1,1 +1,2 @@
 Version Control DNS Routing Message Queue Distributed Systems API Lambda Functions Latency Optimization
+Dream big and dare to fail. Load Testing RabbitMQ Predictive Analytics Act as if what you do makes a difference. It does. Sharding If you can dream it, you can do it.
